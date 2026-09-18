@@ -1,5 +1,7 @@
 # Sessile Drop Analyzer
 
+[![DOI](https://zenodo.org/badge/1375806084.svg)](https://doi.org/10.5281/zenodo.22830731)
+
 A Python-based tool for analysing sessile drop profiles from experimental images using the Young–Laplace equation.
 
 The program determines the main geometrical characteristics of the sessile drop, including its **height, maximum diameter, and contact diameter**, and estimates the **surface tension** of the liquid.
